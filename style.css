@@ -29,6 +29,7 @@ hr {
     margin: auto;
 }
 
+
 /** link **/
 
 .link {
@@ -40,6 +41,7 @@ hr {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
+    align-items: center;
 }
 
 .link-secondary {
