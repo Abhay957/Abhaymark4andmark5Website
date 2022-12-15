@@ -11,6 +11,7 @@ body{
     --primary-color: #0EA5E9 ;
     --blackhish-color: #3f3f46 ;
     --orangish-color: #fcd34d;
+    --lightblue-color: #bae6fd;
 }
 
 hr {
@@ -100,6 +101,7 @@ hr {
     text-align: center;
     padding: 0.5rem;
     color: var(--blackhish-color);
+    font-weight: bold;
 }
 
 .hero .hero-heading .hero-heading-highlight{
@@ -107,6 +109,20 @@ hr {
 }
 
 /** section **/
+ .section{
+    padding: 1rem;
+ }
+
+ .section h3{
+    padding: 1rem;
+    text-align: center;
+ }
+
+ .ow{
+    background-color: var(--lightblue-color);
+ }
+
+ /** footer **/
 
 
 
