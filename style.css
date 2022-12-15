@@ -41,7 +41,7 @@ hr {
     background-color: var(--primary-color);
     border-radius: 0.5rem;
     color: white;
-    align-items: center;
+    
 }
 
 .link-secondary {
@@ -49,6 +49,7 @@ hr {
     border: 1px solid var(--primary-color);
     border-radius: 0.5rem;
 }
+
 
 /** list **/
 
@@ -150,4 +151,8 @@ hr {
 
 .footer ul {
     padding-inline-start: 0px;
+}
+
+#lib-header{
+    padding-top: 2rem;
 }
