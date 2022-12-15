@@ -43,7 +43,12 @@ hr {
     color: white;
     
 }
-
+/** not understood how it puts read more in centre
+.center-link{
+    display: flex;
+    justify-content: center;
+}
+**/
 .link-secondary {
     color: var(--primary-color);
     border: 1px solid var(--primary-color);
