@@ -88,7 +88,7 @@ hr {
 /** header **/
 
 .hero {
-    padding-top: 1.5rem;
+    padding-top: 3rem;
 }
 
 .hero .hero-img {
@@ -110,12 +110,13 @@ hr {
 
 /** section **/
 .section {
-    padding: 1rem;
+    padding: 3rem;
 }
 
-.section h3 {
+.section h2 {
     padding: 1rem;
     text-align: center;
+    font-weight: bold;
 }
 
 .ow {
