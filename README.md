@@ -1,4 +1,21 @@
-# Abhayneo
-I have made this website using the learnings from neogcamp level zero.
+# "Portfolio Website"
 
-It showcases projects, blogs.
+Tech stack:
+HTML and CSS
+
+About project:
+This project was made as part of level zero of neogcamp.
+
+"Portfolio Website" contains projects,blogs,portfolio.
+
+Project page includes all the projects made during the level zero of neogcamp.
+
+Each project can be viewed live and also user can see its source code.
+
+Blog page includes blogs on different topics.
+
+Social media links are also shared in the end.
+
+CLI app look:
+
+<img src="images/websiteview.png" >
