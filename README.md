@@ -19,3 +19,5 @@ Social media links are also shared in the end.
 CLI app look:
 
 <img src="images/websiteview.png" >
+<img src="images/projectview.png" >
+<img src="images/blogview.png" >
