@@ -16,7 +16,7 @@ Blog page includes blogs on different topics.
 
 Social media links are also shared in the end.
 
-<h2>CLI app look:</h2>
+<h2>Web app look:</h2>
 
 <img src="images/websiteview.png" >
 <img src="images/projectview.png" >
