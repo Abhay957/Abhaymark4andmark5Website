@@ -1,9 +1,9 @@
 # "Portfolio Website"
 
-Tech stack:
+<h2>Tech stack:</h2>
 HTML and CSS
 
-About project:
+<h2>About project:</h2>
 This project was made as part of level zero of neogcamp.
 
 "Portfolio Website" contains projects,blogs,portfolio.
@@ -16,7 +16,7 @@ Blog page includes blogs on different topics.
 
 Social media links are also shared in the end.
 
-CLI app look:
+<h2>CLI app look:</h2>
 
 <img src="images/websiteview.png" >
 <img src="images/projectview.png" >
