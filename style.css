@@ -127,11 +127,6 @@ hr {
     font-weight: bold;
 }
 
-.padding-md{
-    padding-top: 2rem;
-    padding-right: 1rem;
-}
-
 .ow {
     background-color: var(--lightblue-color);
 }
